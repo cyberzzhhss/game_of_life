@@ -1,3 +1,6 @@
+For Visualization please check this link below:
+	https://cyberzzhhss.github.io/projects/p8_game_of_life/
+
 
 Setup:
 
